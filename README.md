@@ -28,5 +28,12 @@
 ##　参考資料
 
 Raspberry Pi LESSON 18: Using a Joystick With the Raspberry Pi[https://www.youtube.com/watch?v=T6HsRRXBVS8]
+---
+
+##　回路図
+
+![Joystick](./joystick.png)
+
+----
 
 
