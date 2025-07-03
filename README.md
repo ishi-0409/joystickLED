@@ -36,9 +36,3 @@ Raspberry Pi LESSON 18: Using a Joystick With the Raspberry Pi[https://www.youtu
 
 ----
 
-## ライセンス
-このプロジェクトの一部コードは SunFounder Da Vinci Kit に基づき、
-GNU General Public License v2（またはそれ以降）の条件で公開されています。
-詳細は LICENSE ファイルをご覧ください。
-
-
